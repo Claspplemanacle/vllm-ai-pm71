@@ -1,4 +1,4 @@
-# 
+# Exclusivo vLLM plugins. Com ajuste fino e implantação de modelos — otimizado para máximo desempenho e eficiência.
 
 
 
